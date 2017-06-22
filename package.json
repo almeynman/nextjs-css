@@ -7,7 +7,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "babel-plugin-wrap-in-js": "^1.1.1",
     "next": "latest",
+    "raw-loader": "^0.5.1",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
